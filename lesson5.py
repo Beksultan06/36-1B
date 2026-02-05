@@ -12,3 +12,6 @@ print("Heelo world")
 from utils import greet
 
 greet("Bob")
+
+
+print("Heelo git")
